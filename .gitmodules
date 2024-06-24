@@ -1,9 +1,0 @@
-[submodule "swe_python"]
-	path = swe_python
-	url = git@github.com:pandohansamuel19/swe_python.git
-[submodule "django_infra_scaling"]
-	path = django_infra_scaling
-	url = git@github.com:pandohansamuel19/django_infra_scaling.git
-[submodule "crm_ensemble"]
-	path = crm_ensemble
-	url = git@github.com:smkdev-id/crm_ensemble.git
