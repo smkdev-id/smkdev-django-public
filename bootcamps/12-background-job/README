@@ -1,0 +1,10 @@
+DJM12 - Background Job
+
+Objectiveness
+- Konsep Dasar
+- Async vs Sync Processing
+- Keuntungan Penggunaan
+- Integrasi pada Service
+- Pengenalan Publisher/Subscriber
+- Queue Pub/Sub
+- Cronjob Pub/Sub

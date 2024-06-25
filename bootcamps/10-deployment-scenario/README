@@ -1,0 +1,10 @@
+DJM10 - Deployment Scenario
+
+Objectiveness
+- Konsep Dasar
+- Persiapan Aplikasi untuk Deployment
+- Server Requirements dan Konfigurasi
+- Web Server dan Reverse Proxy
+- Monitoring dan Scaling
+- Logging & Error Handling
+- Skalabilitas dan Load Balancing

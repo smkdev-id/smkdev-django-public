@@ -1,0 +1,8 @@
+DJM07 - Django Security
+
+Objectiveness
+- Clickjacking
+- Cross-site scripting
+- Cross-Site Request Forgery (CSRF)
+- SQL injection
+- Remote code execution

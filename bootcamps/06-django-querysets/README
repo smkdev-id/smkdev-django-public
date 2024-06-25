@@ -1,0 +1,10 @@
+DJM06 - Django QuerySets
+
+Objectiveness
+- QuerySet Introduction
+- QuerySet API
+- QuerySet Get
+- QuerySet Filter
+- Chaining filters
+- QuerySet Order By
+- QuerySet exclude(), reverse(), delete()
