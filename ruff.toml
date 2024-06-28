@@ -40,4 +40,5 @@ exclude = [
   "challenges/"
   "extra/",
   "sandbox/",
+  "test/"
 ]
