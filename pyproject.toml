@@ -1,0 +1,10 @@
+[project]
+name = "smkdev-django-public"
+description = "Fullstack Development with Python and Django for SMKDEV Community. Decorators, MVT, CMS, QuerySets, MLOps"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+authors = [
+  { name = "SMKDEV", email = "info@smk.dev" },
+]
+keywords = ["django"]
