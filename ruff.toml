@@ -36,9 +36,9 @@ line-length = 150
 exclude = [
   "assets/",
   "blogs/",
-  "capstone/"
-  "challenges/"
+  "capstone/",
+  "challenges/",
   "extra/",
   "sandbox/",
-  "test/"
+  "test/",
 ]
