@@ -23,13 +23,13 @@ repos:
       #   pass_filenames: false
       # - id: whitespace
       #   name: strip whitespace
-      #   entry: find tinygrad -type f -name "*.py" -exec sed -i '' 's/ *$//' '{}' ';'
+      #   entry: find smkdev-django-public -type f -name "*.py" -exec sed -i '' 's/ *$//' '{}' ';'
       #   language: system
       #   always_run: true
       #   pass_filenames: false
       # - id: mypy
       #   name: mypy
-      #   entry: mypy tinygrad/ --strict-equality
+      #   entry: mypy blogs/ bootcamps/ capstone/ challenges/ extra/ sandbox/ --strict-equality
       #   language: system
       #   always_run: true
       #   pass_filenames: false
